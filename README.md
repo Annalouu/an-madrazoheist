@@ -1,20 +1,20 @@
-# An-madrazoheist
+# An-madrazoheist:
 - A Qbcore heist involving madrazo's ranch
 - https://annalouscripts.tebex.io/package/5385638
 
-# Feats
+# Feats:
 - Custom heist made from the ground up
 - Highly configurable and adjustable
 - Very fun and challenging
 
-# Video
+# Video:
 - https://www.youtube.com/watch?v=iwPROsd4FBo
 
-# Install
+# Install:
 - Drag an-madrazoheist to your resource folder
 - Add whatever item you want to your item.lua and add them to your config as you see fit.
 
-# dependency 
+# dependency:
 - QBcore
 - qb-target
 - qb-phone
