@@ -8,7 +8,7 @@
 - Very fun and challenging
 
 # Video
-- https://www.youtube.com/watch?v=iwPROsd4FBo
+- https://www.youtube.com/watch?v=qfPGI9zFV9A
 
 # Install
 - Drag an-madrazoheist to your resource folder
