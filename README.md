@@ -18,5 +18,6 @@
 - QBcore
 - qb-target
 - qb-phone
+- ps-ui (for the minigame) https://github.com/Project-Sloth/ps-ui
 - cdn-fuel/anyfuel change the export
 - MLO used: https://forum.cfx.re/t/release-la-fuente-blanca-madrazzo-ranch-by-lete/1046939
